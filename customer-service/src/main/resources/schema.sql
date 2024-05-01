@@ -1,0 +1,15 @@
+-- create table customer(
+--     id int not null auto_increment,
+--     name varchar(45),
+--     email varchar(45),
+--     address varchar(45),
+--     primary key (id));
+-- )
+--
+--
+--
+-- insert into customer(id,name,email,address) values (1,'John Doe','doe@gmail.com','Yangon');
+-- insert into customer(id,name,email,address) values (2,'John Williams','williams@gmail.com','Mandalay');
+-- insert into customer(id,name,email,address) values (3,'John Updike','updike@gmail.com','Yangon');
+-- insert into customer(id,name,email,address) values (4,'Mary James','james@gmail.com','Yangon');
+-- insert into customer(id,name,email,address) values (5,'Jack Johnson','jack@gmail.com','Yangon');
